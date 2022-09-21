@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(64, 101, 83)
+}
+.main{
+    text-align: center;
+    margin-top:20%;
+}
+
+a{
+    text-decoration:none;
+    color:rgb(57, 54, 54)
+}
+
+h1{
+    margin-bottom:1.5em;
+    color:rgb(165, 233, 195);
+}
+
+button {
+
+    width:20%;
+    padding:1em;
+    background-color: rgba(50, 144, 207, 0.727);
+    border-style: none;
+    border-radius: 8px;
+    box-shadow: 0 0 3px;
+    font-size: 1em;
+    color:rgb(62, 60, 60);
+    font-weight: bold;
+
+}
+
+button:hover{
+    background-color:rgb(133, 133, 177);
+    cursor: pointer;
+}
